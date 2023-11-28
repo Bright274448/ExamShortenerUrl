@@ -10,6 +10,7 @@ https://github.com/Bright274448/FullstackExam.git
 
 #สามารถ run ด้วยคำสั่ง npm start ที่ root directory ของโปรเจ็กต์(FullstackExam) ได้ในครั้งถัด ๆ ไป
 
-#System Design ของทั้งระบบจริง และ Demo อยู่ใน System Design.png ครับ
+![image](https://github.com/Bright274448/ExamShortenerUrl/assets/76517020/24e2fdd2-6eb5-4102-8ffb-9a2017b74af2)
 
-![image](https://github.com/Bright274448/FullstackExam/assets/76517020/98326c19-50b5-4961-a92e-ae426610130a)
+
+
