@@ -1,4 +1,8 @@
 # FullstackExam
+
+# Shortener URL System Design
+![System Design](https://github.com/Bright274448/ExamShortenerUrl/assets/76517020/58f682de-3355-4ec4-bae3-c4086345f19d)
+
 # Getting started
 
 #Clone โปรเจ็กต์:
@@ -15,5 +19,3 @@ https://github.com/Bright274448/FullstackExam.git
 ![image](https://github.com/Bright274448/ExamShortenerUrl/assets/76517020/24e2fdd2-6eb5-4102-8ffb-9a2017b74af2)
 
 
-
-![System Design](https://github.com/Bright274448/ExamShortenerUrl/assets/76517020/58f682de-3355-4ec4-bae3-c4086345f19d)
