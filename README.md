@@ -8,7 +8,7 @@
 #Clone โปรเจ็กต์:
 https://github.com/Bright274448/FullstackExam.git
 
-#cd เข้าไปยัง directorty ที่ทำการ clone
+#cd เข้าไปยัง directory ที่ทำการ clone
 
 #ทำการ run ครั้งแรกด้วย npm run install-and-start ที่ root directory ของโปรเจ็กต์(FullstackExam)
 
